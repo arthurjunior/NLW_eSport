@@ -1,17 +1,18 @@
 
 
-<h1 align="center">
-    <img alt="Letmeask" src="./assets/LPage.png" />
-</h1>
+<p align="center">
+    <img alt="Letmeask" src="./assets/LPage.png" width="160px"/>
+</p>
 
 <br>
-Projeto em andamento clique **[aqui](https://nextlevelweek.com/)** para acessar o projeto 
+
+Projeto em andamento clique **[aqui](https://nlw-esport-duo.vercel.app/)**, para acessar o projeto 
 ## 🧪 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [React](https://reactjs.org)
-- [Vitejs] (https://vitejs.dev/)
+- [Vitejs](https://vitejs.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
 
 
@@ -20,6 +21,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Find you duo é um projeto desenvolvido junto a Rocktseat com a proposta de encontrar "duo" um parceiro para jogar algum game
 
 Este é um projeto desenvolvido durante a **[Next Level Week eSports](https://nlw-esport-duo.vercel.app/)**, apresentada dos dias 11 a 18 de Setembro de 2022.
+
 
 
 ## 🔖 Layout
@@ -34,6 +36,3 @@ Lembrando que você precisa ter uma conta no [Figma](http://figma.com/).
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
----
-
-Feito com 💜 by Rocketseat 👋🏻 [Participe da nossa comunidade](https://discord.gg/gKUVrzrPrU)
