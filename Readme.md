@@ -1,7 +1,7 @@
 
 
 <p align="center">
-    <img alt="Letmeask" src="./assets/LPage.png" width="160px"/>
+    <img alt="Find you Duo." src="assets/LPage.png" />
 </p>
 
 <br>
