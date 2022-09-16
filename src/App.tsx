@@ -97,7 +97,7 @@ function App() {
   </div>  
 
   <a href="//www.github.com/arthurjunior/NLW_eSport" className="relative">
-  <div className="max-w-[134px]  flex text-white items-center mt-20"  >
+  <div className="max-w-[90px]  flex text-white items-center mt-20"  >
     <img src={mascoImg} alt=""/>
     @ Open Source
   </div>
