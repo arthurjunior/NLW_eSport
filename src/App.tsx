@@ -3,6 +3,7 @@ componentes / propriedades
 Abordando o conceito de react que é uma ferramenta que ajudar a implementar 
 codigos javascript junto com HTML.
 podemos criar tags personalizadas com a primeira letra Maiuscula e chamar como uma função
+versao 1.0
 
 
 */
