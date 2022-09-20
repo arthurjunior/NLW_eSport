@@ -1,12 +1,12 @@
 
 
 <p align="center">
-    <img alt="Find you Duo." src="assets/landing.png" />
+    <img alt="Carregando Imagem ...." src="assets/landing.png" />
 
 </p>
 
 <p align="center">
-    <img alt="Find you Duo." src="assets/Forms.png" />
+    <img alt="Careggando Imagem ..." src="assets/Forms.png" />
 
 </p>
 
