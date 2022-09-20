@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-    <img alt="Find you Duo." src="assets/Forms.PNG" />
+    <img alt="Find you Duo." src="assets/Forms.png" />
 
 </p>
 
