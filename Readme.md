@@ -3,7 +3,7 @@
 <p align="center">
     <img alt="Find you Duo." src="assets/landing.png" />
     
-    <img alt="Find you Duo." src="assets/forms.png" />
+    <img alt="Find you Duo." src="assets/Forms.png" />
 </p>
 
 <br>
