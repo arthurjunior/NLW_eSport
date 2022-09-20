@@ -1,7 +1,9 @@
 
 
 <p align="center">
-    <img alt="Find you Duo." src="assets/LPage.png" />
+    <img alt="Find you Duo." src="assets/landing.png" />
+    
+    <img alt="Find you Duo." src="assets/forms.png" />
 </p>
 
 <br>
