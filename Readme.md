@@ -2,9 +2,15 @@
 
 <p align="center">
     <img alt="Find you Duo." src="assets/landing.png" />
-    
-    <img alt="Find you Duo." src="assets/Forms.png" />
+
 </p>
+
+<p align="center">
+    <img alt="Find you Duo." src="assets/Forms.PNG" />
+
+</p>
+
+
 
 <br>
 
